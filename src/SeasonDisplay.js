@@ -3,7 +3,7 @@ import './SeasonDisplay.css';
 
 const seasonConfig = {
   'winter' : {
-    text : "It's Chilly",
+    text : "It's Chilly. Use Sweater",
     iconName : 'snowflake'
   },
   'summer' : {
